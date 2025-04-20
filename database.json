@@ -1,59 +1,10 @@
 {
-  "users": [
-    {
-      "number": "6285727264161",
-      "username": "Rasyaa",
-      "ip": "188.166.252.228"
-    },
-    {
-      "number": "6281241424089",
-      "username": "panji",
-      "ip": "143.198.0.222"
-    },
-    {
-      "number": "966598964206",
-      "username": "Rasyaa2",
-      "ip": "128.199.102.63"
-    },
-    {
-      "number": "628999302291",
-      "username": "pyzz",
-      "ip": "206.189.109.146"
-    },
-    {
-      "number": "16015902578",
-      "username": "Seraphim",
-      "ip": "165.232.187.147"
-    },
-    {
-      "number": "6285189394696",
-      "username": "admin",
-      "ip": "206.189.47.213"
-    },
-    {
-      "number": "6285817962540",
-      "username": "XeanzyTwo",
-      "ip": "192.168.0.101"
-    },
-    {
-      "number": "6288214030407",
-      "username": "XeanzyStr",
-      "ip": "192.168.0.101"
-    },
-    {
-      "number": "6288290571179",
-      "username": "XeanzyOne",
-      "ip": "192.168.0.101"
-    },
-    {
-      "number": "6285839068195",
-      "username": "stevenn",
-      "ip": "152.42.206.244"
-    },
-    {
-      "number": "6287866923778",
-      "username": "barokk",
-      "ip": "188.166.242.192"
-    }
-  ]
+  "1": {
+    "name": "1",
+    "password": "1"
+  },
+  "6285122248595": {
+    "name": "qoupay",
+    "password": "123"
+  }
 }
